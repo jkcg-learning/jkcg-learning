@@ -1,7 +1,7 @@
 ### Hi there, I'm Jyothish CHANDRASENAN 👋
 
 ![](https://komarev.com/ghpvc/?username=jyothish&color=green)  
-[![Website](https://img.shields.io/website?label=jkcg-learning&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/jyothishchandrasenan/)
+[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyothishchandrasenan/)&nbsp; [![Medium Articles](https://img.shields.io/badge/medium-%230077B5.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jkcg-tech)
 
 - 🔭 I’m currently working as a Machine Learning Engineer
 - 🌱 I’m currently learning concepts behind LLM
