@@ -5,7 +5,6 @@
 
 - 🔭 I’m a Master's Graduate in Data Science and Analytics
 - 💪 Strengths: Machine Learning, Deep Learning, MLOPs
-- 🌱 I’m currently learning concepts behind LLM, Prompt Engineering and Finetuning techniques
 
  ---
   <div>
