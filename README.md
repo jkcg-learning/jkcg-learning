@@ -1,7 +1,7 @@
 ### Hi there, I'm Jyothish CHANDRASENAN 👋
 
 ![](https://komarev.com/ghpvc/?username=jyothish&color=green)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyothishchandrasenan/)&nbsp; [![Medium Articles](https://img.shields.io/badge/medium-%230077B5.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jkcg-tech)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyothishchandrasenan/)&nbsp; 
 
 - 🔭 I’m a Master's Graduate in Data Science and Analytics
 - 💪 Strengths: Machine Learning, Deep Learning, MLOPs
