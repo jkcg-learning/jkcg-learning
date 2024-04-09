@@ -6,7 +6,7 @@
 - 🔭 I’m a Master's Graduate in Data Science and Analytics
 - 💪 Strengths: Deep Learning, Machine Learning
 - 📖 Currently learning Generative AI and step diving into LLMs
-- 💻 Open for exciting opportunities <a href="https://drive.google.com/file/d/1nbP6N7qOi4UaA_IX8BCSkLiAC2V6zSF8/view?usp=sharing">Resume</a>.</li>
+- 💻 Open to collaborate for exciting opportunities
 
  ---
  <!--Languages and Tools Section-->    
