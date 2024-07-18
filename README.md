@@ -4,7 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyothishchandrasenan/)&nbsp; 
 
 🔭 I’m an enthusiastic learner in AI, always exploring and applying new tools.
+
 💪 Strengths: Deep Learning, Machine Learning, Generative AI, LLMs.
+
 💻 Open to collaborate for exciting opportunities.
 
 ---
