@@ -11,16 +11,16 @@
 
 ---
 <!--Languages and Tools Section-->    
-<br> <b>⚡ Agentic AI & Tools </b>
+<br> <b>🛠️ Tools & Technologies I Work With</b>
 <div align="center">
     <table align="center">
         <tr>
             <td><img width="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" alt="LangGraph" title="LangGraph"/></td>
             <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/langchain_icon.png" alt="LangChain" title="LangChain"/></td>
             <td><img width="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/crewai-color.png" alt="CrewAI" title="CrewAI"/></td>
-            <td><img width="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/vllm.png" alt="vLLM" title="vLLM"/></td>
-            <td><img width="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/mcp.png" alt="MCP" title="Model Context Protocol"/></td>
-            <td><img width="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png" alt="OpenAI" title="OpenAI"/></td>
+            <td><img width="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/vllm-color.png" alt="vLLM" title="vLLM"/></td>
+            <td><img width="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/mcp.png" alt="MCP" title="Model Context Protocol"/></td>
+            <td><img width="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" alt="OpenAI" title="OpenAI"/></td>
             <td><img width="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" alt="Claude" title="Anthropic Claude"/></td>
             <td><img width="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini-color.png" alt="Gemini" title="Google Gemini"/></td>
             <td><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></td>
@@ -29,7 +29,7 @@
         <tr>
             <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/huggingface.png" alt="Hugging Face" title="Hugging Face"/></td>
             <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></td>
-            <td><img width="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/ollama.png" alt="Ollama" title="Ollama"/></td>
+            <td><img width="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" alt="Ollama" title="Ollama"/></td>
             <td><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></td>
             <td><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></td>
             <td><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></td>
@@ -42,7 +42,7 @@
             <td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></td>
             <td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></td>
             <td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></td>
-            <td><img width="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/cursor.png" alt="Cursor" title="Cursor"/></td>
+            <td><img width="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/cursor.png" alt="Cursor" title="Cursor"/></td>
             <td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pytorch.png" alt="PyTorch" title="PyTorch"/></td>
             <td><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></td>
             <td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/></td>
