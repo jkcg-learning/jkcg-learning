@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=jyothish&color=green)  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyothishchandrasenan/)&nbsp; 
 
-🔭 I’m an enthusiastic learner in AI, always exploring and applying new tools — **10 years** in software development and **5 years** in AI projects across various roles.
+🔭 I’m an enthusiastic learner in AI, always exploring and applying new tools — grounded by **10 years** in software and **5 years** across AI roles, and staying humble as the field keeps advancing.
 
 💪 Strengths: Deep Learning, Machine Learning, Generative AI, LLMs, Agents, MLOps, LLMOps.
 
